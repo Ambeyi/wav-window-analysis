@@ -1,0 +1,14 @@
+{
+  "source": "synthetic 440 Hz tone and silence",
+  "sample_rate_hz": 8000,
+  "frames": 24000,
+  "channels": 1,
+  "duration_seconds": 3.0,
+  "window_seconds_requested": 1.0,
+  "hop_seconds_requested": 0.5,
+  "window_samples": 8000,
+  "hop_samples": 4000,
+  "feature_rows": 5,
+  "tail_policy": "Only complete windows are exported; trailing incomplete windows are omitted.",
+  "normalization": "Independent full-recording peak normalization per channel; silence remains zero."
+}
