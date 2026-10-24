@@ -1,0 +1,5 @@
+Verified 24 October 2026
+All five unittest cases passed.
+Synthetic CLI demonstration generated five complete windows.
+All five input RMS values agree with the analytical tone/silence expectations within 1e-10.
+Bundled results contain synthetic signal features only.
